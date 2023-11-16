@@ -216,5 +216,38 @@ my 1st survey form
         </div>
       </form>
     </div>
+    <styles.css>
+    ody{
+    background-color:rgb(8,50,65);
+    align-text: center;
+    font-family: 'Open Sans', sans-serif;
+    color:pink;
+  }
+  #title{
+    color:rgb(200,70,100);
+    
+  }
+  *{
+    text-align:center;
+    width:fit;
+    height:fit;
+    border: 1px solid black;
+    box-sizing: border-box;
+  }
+  label{
+    background-color: green;
+    text-align: center; 
+  }
+ .form-group{
+    text-align: center;
+    color: aquamarine;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    
+ }   
+    <styles.css/>
+  
   </body>
 </html>
