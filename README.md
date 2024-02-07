@@ -66,13 +66,13 @@ my 1st survey form
           <p>Would you recommend freeCodeCamp to a friend?</p>
           <label>
             <input
-              name="user-recommend"
-              value="definitely"
-              type="radio"
-              class="input-radio"
+              name = "user-recommend"
+              value = "definitely"
+              type = "radio"
+              class = "input-radio"
               checked
-            />Definitely</label
-          >
+            />Definitely
+          </label>
           <label>
             <input
               name="user-recommend"
@@ -118,7 +118,7 @@ my 1st survey form
             />Front-end Projects</label
           >
           <label>
-            <input
+            <input>
               name="prefer"
               value="back-end-projects"
               type="checkbox"
