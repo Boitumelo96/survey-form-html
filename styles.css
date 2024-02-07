@@ -1,0 +1,17 @@
+body{
+    background-color:rgb(8,50,65);
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    color:pink;
+  }
+  #title{
+    color:rgb(200,70,100);
+    
+  }
+  *{
+    text-align:center;
+    width:fit;
+    height:fit;
+    border: 1px solid black;
+    box-sizing: border-box;
+  }
